@@ -1,0 +1,12 @@
+[START OF LOGS]
+  *~ Date/Time: Tue Dec  1 17:29:29 2020
+  *~ User-Profile: nioz
+  *~ Public-IP: [HIDDEN FOR PRIVACY]
+  *~ Private-IP: [HIDDEN FOR PRIVACY]
+ 
+[Tue Dec  1 17:29:29 2020] ~ Keylogger – keylog.py
+[SHIFT]This is a text[BACKSPACE][BACKSPACE]st
+[Tue Dec  1 17:29:29 2020] ~ Sticky Notes
+[SHIFT]Hello [SHIFT]World[SHIFT]!
+[Tue Dec  1 17:29:29 2020] ~ Inbox - loremipsum@email.com - Gmail - Google Chrome
+[SHIFT][SHIFT]Hello [SHIFT]Mom and [SHIFT]Dad[CTRL][CTRL-A][BACKSPACE]
