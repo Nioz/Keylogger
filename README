@@ -1,0 +1,8 @@
+This keylogger, when activated, will log: keystrokes, the window the user is currently clicked into, the date/time, and the users public AND private IP address.
+It does this by saving the file to a common directory that most/all users have (e.g. Documents, Pictures, etc) directory, 
+it will then create a text file with all of the formatted data, email it to the specified email listed in config.py, then it will delete the file. 
+
+The creation of the file in the common directory helps minimize the likelyhood of the file being discovered. 
+The deletion of the file helps hide evidence that the user's keystrokes are being logged, and also minimizes computer resources.
+
+To see an example of the formatting of the text file, please see Keylogger0I6614699.txt in the repo.
